@@ -1,0 +1,20 @@
+[
+    {
+        "name_first": "mahdieh",
+        "name_last": "hasanvand",
+        "number_student": "12345",
+        "major": "computer"
+    },
+    {
+        "name_first": "ali",
+        "name_last": "ahmadi",
+        "number_student": "15927",
+        "major": "computer"
+    },
+    {
+        "name_first": "yekta",
+        "name_last": "hasanvand",
+        "number_student": "14001",
+        "major": "computer"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name_first": "ali",
+        "name_last": "ahmadi",
+        "code_personnel": "456789",
+        "department": "computer"
+    },
+    {
+        "name_first": "mohammad",
+        "name_last": "delfan",
+        "code_personnel": "14008",
+        "department": "mathematics"
+    },
+    {
+        "name_first": "ali",
+        "name_last": "kermani",
+        "code_personnel": "12345",
+        "department": "engineering"
+    },
+    {
+        "name_first": "lila",
+        "name_last": "zahabi",
+        "code_personnel": "14789",
+        "department": "computer"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "14001",
+        "course_id": 1
+    },
+    {
+        "number_student": "12345",
+        "course_id": 1
+    },
+    {
+        "number_student": "12345",
+        "course_id": 2
+    }
+]

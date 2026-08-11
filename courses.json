@@ -1,0 +1,24 @@
+[
+    {
+        "course_id": 1,
+        "title": "ریاضی",
+        "code": "MATH101",
+        "unit": 3,
+        "capacity": 30,
+        "professor": "456789",
+        "students": [
+            "12345"
+        ]
+    },
+    {
+        "course_id": 2,
+        "title": "ادبیات",
+        "code": "50adff",
+        "unit": 2,
+        "capacity": 2,
+        "professor": "14008",
+        "students": [
+            "12345"
+        ]
+    }
+]
