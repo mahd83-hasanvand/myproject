@@ -10,3 +10,6 @@ app.include_router(professor_router)
 app.include_router(course_router)
 app.include_router(selection_router)
 
+@app.get("/")
+def root():
+    return {"message": "FastAPI is running!"}
